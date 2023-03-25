@@ -1,0 +1,28 @@
+.conten{
+    width: 100%;
+    height:auto ;
+    background-color: #035be0a9;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.inte{
+    display: flex;
+    justify-content: space-between;
+}
+.like{
+    display: flex; 
+    gap: 15px;
+}
+.con{
+    display: flex; 
+    gap: 15px;
+}
+img{
+    width: 20px;
+   cursor: pointer;  
+}
+#atualizar{
+    display: none;
+}
